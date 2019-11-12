@@ -1,4 +1,4 @@
-# Template V3 - Database Access
+# Template - Database Access
 
 [![Eclipse License](http://img.shields.io/badge/license-Eclipse-brightgreen.svg)](LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/template-v3-database-access.svg)](https://github.com/dirigiblelabs/template-v3-database-access/graphs/contributors)
@@ -8,8 +8,6 @@
 
 Simple "Database Access" JavaScript service
 ```javascript
-/* eslint-env node, dirigible */
-
 var query = require('db/v3/query');
 var response = require('http/v3/response');
 
